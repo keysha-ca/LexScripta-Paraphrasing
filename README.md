@@ -1,0 +1,2 @@
+# LexScripta-Paraphrasing
+Lex Sripta
